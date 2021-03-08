@@ -1,6 +1,6 @@
 this.$dom = {};
 this.$dom.animatedText = document.createElement('div');
-this.text = "Happy Birthday!. You are so special in my life, not only for being my lovely sister, but also for being one of my best friends. On your special day I wish you only smiles and joy. May each minute of your life be filled with happiness and may this birthday be just perfect for you! My wish for you on your birthday is whatever you ask may you receive, whatever you seek may you find, whatever you wish may it be fulfilled on your birthday and always. \nOnce again Happy birthday Di...!";  // MESSAGE AREA , THIS CAN BE CHANGED FROM YOUR MESSAGE :)
+this.text = "Every milestone is a small victory on the road to fulfilling your life’s purpose. May you achieve everything you dreamt about. Wishing you good luck and a bright future on this special day. You have been the shoulder on which I could cry, the arms in which I could feel safe and the ears that could listen to my deepest secrets. Thank you, my friend, for everything.\n\n Hope your special day brings you all that your heart desires! Here’s wishing you a day full of pleasant surprises!  Once Again Happy birthday Rakul...!” ";  // MESSAGE AREA , THIS CAN BE CHANGED FROM YOUR MESSAGE :)
 this.$dom.container = document.getElementById('container');
 this.$dom.container.appendChild(this.$dom.animatedText);
 animateText();
